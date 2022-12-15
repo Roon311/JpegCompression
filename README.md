@@ -1,2 +1,2 @@
 # JpegCompression
-This is responsibl to take images apply jpeg compression to it
+This is responsible to take images apply jpeg compression to it
